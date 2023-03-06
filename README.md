@@ -1,3 +1,7 @@
+IMAGE MANAGEMENT TOOL FINAL PROJECT
+
+
+
 1. Take one or more image file(s) as input
 
 
